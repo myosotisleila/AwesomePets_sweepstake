@@ -1,0 +1,4 @@
+{
+    "breed": ["Nyan Cat", "Persian", "Fluffy Night Fury"],
+    "age_range": {"low": 0,"up": 999}
+}
